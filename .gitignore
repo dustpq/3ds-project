@@ -1,0 +1,22 @@
+# Build artifacts
+*.3dsx
+*.smdh
+*.elf
+*.cia
+build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
